@@ -1,4 +1,4 @@
-# LapTrinhMang
+# Trò chơi Game Rock-Paper-Scissors
 
 1) Thành viên
 - Huy: Server Core
