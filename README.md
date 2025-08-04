@@ -11,4 +11,8 @@
 - Người chơi 2 (Client 2) kết nối → Server ghép cặp 2 người → bắt đầu trận đấu.
 - Server so sánh lựa chọn → trả kết quả về cả 2 client.
 
+3. Luật chơi:
+- Rock smashes scissors.
+- Paper covers rock.
+- Scissors cut paper.
   
