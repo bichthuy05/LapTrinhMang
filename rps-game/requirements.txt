@@ -1,0 +1,14 @@
+# Server requirements
+python>=3.8
+pygame==2.1.2  # Dành cho âm thanh (nếu cần)
+
+# Client requirements
+tkinter>=8.6
+Pillow==9.3.0  # Xử lý ảnh
+
+# Testing
+pytest==7.2.0
+pytest-cov==4.0.0
+
+# Networking
+python-socketio==5.7.2
